@@ -1,0 +1,174 @@
+{
+  "orderShippingItems": [
+    {
+      "SenderName": "adf",
+      "SenderPhone": "adsf",
+      "SenderCountryCode": "VN",
+      "SenderCityCode": "HN",
+      "SenderDistrictCode": "Q7",
+      "SenderWardCode": "P2",
+      "SenderPostalCode": "ádf",
+      "ReceiverName": "ádfsda",
+      "ReceiverPhone": "sadf",
+      "ReceiverAddress": "ádfdsa",
+      "ReceiverCountryCode": "CAM",
+      "ReceiverCityCode": "HN",
+      "ReceiverDistrictCode": "Q7",
+      "ReceiverWardCode": "P3",
+      "ReceiverPostalCode": "sadf",
+      "OrderInfomation": [
+        {
+          "length": 1,
+          "width": 2,
+          "height": 3,
+          "weight": 4,
+          "COD": 100,
+          "currency": "VND",
+          "packagetype": 3,
+          "MerchandiseInfomation": [
+            {
+              "HSCode": "1",
+              "VietNameseName": "1",
+              "EnglishName": "1",
+              "CountryManufacturedCode": "1",
+              "Unit": "1",
+              "Currency": "1",
+              "Value": 1,
+              "Quantity": 1,
+              "Weight": 1
+            },
+            {
+              "HSCode": "2",
+              "VietNameseName": "2",
+              "EnglishName": "2",
+              "CountryManufacturedCode": "2",
+              "Unit": "2",
+              "Currency": "2",
+              "Value": 2,
+              "Quantity": 2,
+              "Weight": 2
+            }
+          ]
+        },
+        {
+          "length": 1,
+          "width": 2,
+          "height": 3,
+          "weight": 4,
+          "COD": 100,
+          "currency": "VND",
+          "packagetype": 3,
+          "MerchandiseInfomation": [
+            {
+              "HSCode": "3",
+              "VietNameseName": "3",
+              "EnglishName": "3",
+              "CountryManufacturedCode": "3",
+              "Unit": "3",
+              "Currency": "3",
+              "Value": 3,
+              "Quantity": 3,
+              "Weight": 3
+            },
+            {
+              "HSCode": "4",
+              "VietNameseName": "4",
+              "EnglishName": "4",
+              "CountryManufacturedCode": "4",
+              "Unit": "4",
+              "Currency": "4",
+              "Value": 4,
+              "Quantity": 4,
+              "Weight": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "SenderName": "adf",
+      "SenderPhone": "adsf",
+      "SenderCountryCode": "VN",
+      "SenderCityCode": "HN",
+      "SenderDistrictCode": "Q7",
+      "SenderWardCode": "P2",
+      "SenderPostalCode": "ádf",
+      "ReceiverName": "ádfsda",
+      "ReceiverPhone": "sadf",
+      "ReceiverAddress": "ádfdsa",
+      "ReceiverCountryCode": "CAM",
+      "ReceiverCityCode": "HN",
+      "ReceiverDistrictCode": "Q7",
+      "ReceiverWardCode": "P3",
+      "ReceiverPostalCode": "sadf",
+      "OrderInfomation": [
+        {
+          "length": 1,
+          "width": 2,
+          "height": 3,
+          "weight": 4,
+          "COD": 100,
+          "currency": "VND",
+          "packagetype": 3,
+          "MerchandiseInfomation": [
+            {
+              "HSCode": "1",
+              "VietNameseName": "1",
+              "EnglishName": "1",
+              "CountryManufacturedCode": "1",
+              "Unit": "1",
+              "Currency": "1",
+              "Value": 1,
+              "Quantity": 1,
+              "Weight": 1
+            },
+            {
+              "HSCode": "2",
+              "VietNameseName": "2",
+              "EnglishName": "2",
+              "CountryManufacturedCode": "2",
+              "Unit": "2",
+              "Currency": "2",
+              "Value": 2,
+              "Quantity": 2,
+              "Weight": 2
+            }
+          ]
+        },
+        {
+          "length": 1,
+          "width": 2,
+          "height": 3,
+          "weight": 4,
+          "COD": 100,
+          "currency": "VND",
+          "packagetype": 3,
+          "MerchandiseInfomation": [
+            {
+              "HSCode": "3",
+              "VietNameseName": "3",
+              "EnglishName": "3",
+              "CountryManufacturedCode": "3",
+              "Unit": "3",
+              "Currency": "3",
+              "Value": 3,
+              "Quantity": 3,
+              "Weight": 3
+            },
+            {
+              "HSCode": "4",
+              "VietNameseName": "4",
+              "EnglishName": "4",
+              "CountryManufacturedCode": "4",
+              "Unit": "4",
+              "Currency": "4",
+              "Value": 4,
+              "Quantity": 4,
+              "Weight": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
